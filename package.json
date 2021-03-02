@@ -14,7 +14,7 @@
     "cross-fetch": "^2.2.2",
     "lodash": "^4.17.13",
     "tlds": "stephenmathieson/node-tlds#master",
-    "urijs": "^1.19.1",
+    "urijs": "^1.19.6",
     "validator": "^10.4.0"
   },
   "devDependencies": {
